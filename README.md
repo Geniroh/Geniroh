@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Irobuisi Chibuzor
 - A full stack web developer.
-- A Pharmacist student who has always been passionate about tech and computers. 
+- I have always been passionate about tech and computers. 
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
